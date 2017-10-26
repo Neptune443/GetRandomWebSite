@@ -1,0 +1,14 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-1.000 -1.000 299.800 96.100" enable-background="new 0 0 297.8 94.1" xml:space="preserve">
+<path fill="#373337" d="M201.9,94.1h-38.5c-4.4,0-8-3.6-8-8s3.6-8,8-8h38.5c4.4,0,8,3.6,8,8S206.3,94.1,201.9,94.1z M250.8,94h-23.2
+	c-4.4,0-8-3.6-8-8s3.6-8,8-8h23.2c8.6,0,15.7-3,21.6-9.1c0,0,0.1-0.1,0.1-0.1c6.2-6.1,9.2-13.2,9.2-21.7c0-8.5-3-15.8-9.3-22.1
+	c-6-6-13.1-9-21.6-9H69.5c-4.4,0-8-3.6-8-8s3.6-8,8-8h181.4c12.9,0,24,4.6,33,13.7c9.2,9.4,13.9,20.6,13.9,33.3
+	c0,12.8-4.7,24-13.9,33C274.9,89.3,263.8,94,250.8,94z M243.3,55.6H114.5c-4.4,0-8-3.6-8-8c0-4.4,3.6-8,8-8h128.8c4.4,0,8,3.6,8,8
+	C251.3,52,247.8,55.6,243.3,55.6z M85.4,55.6h-4.6c-4.4,0-8-3.6-8-8c0-4.4,3.6-8,8-8h4.6c4.4,0,8,3.6,8,8
+	C93.4,52,89.8,55.6,85.4,55.6z M28.4,18H8c-4.4,0-8-3.6-8-8s3.6-8,8-8h20.4c4.4,0,8,3.6,8,8S32.8,18,28.4,18z"/>
+<script  type="text/javascript">
+	<![CDATA[
+		 var c=window.location.search.split('color=')[1]; c=parseInt(c,16); if(!isNaN(c)){c=c.toString(16);var p=document.getElementsByTagName('path');for(var i=0,l=p.length;i<l;i++){p[i].style.fill='#'+c;};var r=document.getElementsByTagName('rect');for(var j=0,l=r.length;j<l;j++){r[j].style.fill='#'+c;}} 
+		]]>
+</script>
+</svg>
